@@ -9,6 +9,6 @@ git clone https://github.com/Alsguddd/Opensource-Project.git
 ## How to Run?
 ### 카카오톡에서 대회 log파일 가져오기
 #### 대화창->설정->대화 내용->대화 내보내기
-<img src="https://user-images.githubusercontent.com/106859397/204076735-9335539a-7003-411f-86ea-767cac29d595.jpg" width="350" height="350">
+<img src = "https://user-images.githubusercontent.com/106859397/204077923-81834624-1381-4c89-bdfe-7ccf2bb4a600.jpg" width="70%" height="50%">
 ### clone한 ipynb에서 사용자의 kakaotalk_log.txt 파일로 경로 변경
 ![화면 캡처 2022-11-26 162734](https://user-images.githubusercontent.com/106859397/204077632-cf9a3419-3eab-47ca-b54a-7899038e2a41.jpg)
